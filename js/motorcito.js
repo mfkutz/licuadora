@@ -30,3 +30,4 @@ function activarSonido(){
 }
 
 
+console.log(estadoLicuadora);
